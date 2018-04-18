@@ -8,7 +8,7 @@ specific implementation of the way my Algorithms teacher wanted the program to t
 For this program, the main function takes the input as the following in the form of
 a text file that the program will prompt the user for.
 
-'''
+```
 1 2,1 8,2
 2 1,1 3,1
 3 2,1 4,1
@@ -17,7 +17,7 @@ a text file that the program will prompt the user for.
 6 5,1 7,1
 7 6,1 8,1
 8 7,1 1,2
-'''
+```
 
 The first number of each row represents the node name, and each tuple after that
 represents the directed edges coming off the node. The first number is the name of

@@ -1,0 +1,7 @@
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+D:\Dropbox\Dropbox\School\CSC 325\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
